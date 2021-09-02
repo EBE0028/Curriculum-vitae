@@ -1,0 +1,218 @@
+/* .parent-div{
+    display: flex;
+   
+} */
+.alert {
+    padding: 20px;
+    background-color: FFB830;
+    color: white;
+  }
+  
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .closebtn:hover {
+    color: black;
+  }
+body{
+    margin:0;
+    text-align:center;
+    font-size:2em;
+}
+.dottedline{
+    border-style: dotted none none;
+    width:5%;
+    border-width:10px;
+    border-color: 3DB2FF;
+    
+}
+.Title{
+    padding-top:80px;
+    width:50%;
+    margin: 0 auto;
+    font-family: 'Akaya Kanadaka', cursive;
+    font-size:90px;
+    color:#fffafa;
+}
+.Logo{
+    font-family: 'Rock Salt', cursive;
+    font-size:35px;
+    font-weight:normal;
+    line-height:double;
+}
+/* div{
+    background-color: 440A67;
+    
+} */
+.top-container{
+    background-color: 3DB2FF;
+    position: relative;
+    padding-top:100px;
+}
+
+.bottom-cloud{
+    position:absolute;
+    right:450px;
+    top:100px
+}
+.top-cloud{
+    position:absolute;
+    left:355px;
+    bottom:315px;
+    
+}
+.middle-container{
+    background-color: FFEDDA;
+}
+.skills{
+    background-color:FFEDDA;
+}
+.skill-title{
+    padding-top:20px;
+    padding-right: 655px;
+    font-family: 'EB Garamond', serif;
+}
+.skill-icon{
+    padding-top: 25px;
+    height:30%;
+    float: left;
+    padding-left: 280px;
+    
+    
+}
+.Skill-Table{
+    
+    
+    margin-left: 580px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.skill-project{
+    background-color:FFEDDA;
+    height:10%;
+    margin-top:10px;
+    
+}
+.profile-head{
+    font-family: 'Bangers', cursive;
+}
+.profile-para{
+    font-family: 'EB Garamond', serif;
+}
+.project-title{
+    top:10px;
+    padding-right: 700px;
+    font-family: 'EB Garamond', serif;
+}
+.project-icon{
+    padding-right: 275px;
+    height:32%;
+    float: right;
+    
+}
+.project-details
+{
+    
+    margin-left: 285px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom:38px;
+
+}
+.button {
+    border: none;
+    color: white;
+    padding: 86F69ACpx 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+.button {
+    background-color: FFB830; 
+    color: black; 
+    border: 2px solid black;
+  }
+  
+.button:hover {
+    background-color: 3DB2FF;
+    color: 3DB2FF;
+  }
+.profilepic{
+    padding-top: 20px;
+}
+.profile{
+    line-height: 8px;
+}
+.contactbutton {
+    border: none;
+    color: white;
+    padding: 86F69ACpx 22px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width:250px;
+    border-radius: 10px;
+    font-family: 'Carter One', cursive;
+    
+  }
+.contactbutton {
+    background-color: FFB830; 
+    color: black; 
+    border: 2px solid black;
+    height:40px;
+    text-align: center;
+  }
+  
+.contactbutton:hover {
+    background-color: 3DB2FF;
+    color: 3DB2FF;
+  }
+.final-comment{
+    font-family: 'Rampart One', cursive;
+    
+}
+.final-para{
+    font-family: 'Amatic SC', cursive;
+}
+.bottom-container{
+    margin-top:135px;
+    background-color: FFB830;
+}
+.footer-link1{
+    color:white;
+    text-decoration:none;
+    font-family: 'Marvel', sans-serif;
+    background-color:#0000ff;
+
+
+}
+.footer-link2{
+    color:black;
+    text-decoration:none;
+    font-family: 'Marvel', sans-serif;
+    background-color:white;
+}
+.footer-link3{
+    color:white;
+    text-decoration:none;
+    font-family: 'Marvel', sans-serif;
+    background-color:red;
+}
+.copyrights{
+    font-size: 18px;
+    font-family: 'Bebas Neue', cursive;
+}
